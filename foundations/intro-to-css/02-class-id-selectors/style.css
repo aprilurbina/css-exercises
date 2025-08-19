@@ -1,0 +1,14 @@
+/* styles.css */
+
+.odd {
+    background-color: #e85e85e2;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.adjust-font-size {font-size: 24px;}
+
+#two {color: rgb(15, 194, 243);
+font-size: 36px;}
+
+#four {background-color: rgba(128, 255, 0, 0.882);
+font-weight: bold;}
