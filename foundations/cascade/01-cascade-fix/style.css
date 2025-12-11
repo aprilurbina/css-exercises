@@ -24,8 +24,14 @@ body {
   font-size: bold;
 }
 
-div.text {
+.text .child {
   color: rgb(0, 0, 0);
-  font-size: 22px;
-  font-weight: 100;
+  font-size: 14px;
+  font-weight: 800;
+}
+
+div .child {
+  color:black;
+  font-weight: 800;
+  font-size: 14;
 }
