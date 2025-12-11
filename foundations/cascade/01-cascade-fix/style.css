@@ -6,11 +6,15 @@ body {
 .small-para {
   color: hsl(0, 0%, 0%);
   font-weight: 800;
-  font-size: 14px;
 }
 
 .para {
   font-size: 22px;
+}
+
+.para,
+.small-para {
+  font-size: 14px;
 }
 
 .button {
