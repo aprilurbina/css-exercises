@@ -35,3 +35,9 @@ div .child {
   font-weight: 800;
   font-size: 14;
 }
+
+div .text {
+  color: black;
+  font-weight: 100;
+  font-size: 22px;
+}
